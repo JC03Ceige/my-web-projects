@@ -18,7 +18,7 @@ code {
   width: 100vw;
   height: 90vh;
   display: flex;
-  background-color: darkslategrey;
+  background-color: rgb(44, 101, 101);
 }
 
 .card-body {
